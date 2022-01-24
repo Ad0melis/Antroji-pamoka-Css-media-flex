@@ -15,9 +15,9 @@
     width: 100%;
 }
 .flex-container div:nth-child(2){
-background-color: green;
-height: 25%;
-width: 50%;
+    background-color: green;
+    height: 25%;
+    width: 50%;
 }
 .flex-container div:nth-child(3){
     background-color: yellow;
@@ -25,9 +25,9 @@ width: 50%;
     width: 50%;
     }
 .flex-container div:nth-child(4){
- background-color: purple;
- height: 25%;
- width: 50%;
+    background-color: purple;
+    height: 25%;
+    width: 50%;
  }
  .flex-container div:nth-child(5){
     background-color: orangered;
@@ -45,22 +45,18 @@ width: 50%;
         width: 50%;
     }
     .flex-container div:nth-child(2){
-    
-    height: 50%;
-    width: 25%;
+        height: 50%;
+        width: 25%;
     }
     .flex-container div:nth-child(3){
-        
         height: 50%;
         width: 25%;
         }
     .flex-container div:nth-child(4){
-    
-     height: 50%;
-     width: 25%;
+        height: 50%;
+        width: 25%;
      }
      .flex-container div:nth-child(5){
-        
         height: 50%;
         width: 25%;
      } 

@@ -40,7 +40,6 @@
      flex-direction: column;
     }
     .flex-container div:nth-child(1){
-        flex-direction: row-reverse;
         height: 100%;
         width: 50%;
     }
